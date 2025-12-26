@@ -5,7 +5,7 @@ __pycache__/
 # macOS
 .DS_Store
 
-# Generated files (optional but recommended)
+# Generated files
 faiss.index
 faiss_metadata.json
 prepared_chunks.json

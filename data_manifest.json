@@ -1,7 +1,13 @@
 {
-  "data.txt":{
+  "untouchability.txt":{
     "author":"B. R. Ambedkar",
     "year": "1936",
     "category": "Scholarly Essay / Social Analysis"
+  },
+
+  "AnnihilationOfCaste1_reply.txt":{
+    "author":"B. R. Ambedkar",
+    "year": "1937",
+    "category": "Essay / Written Response"
   }
 }
