@@ -38,7 +38,7 @@ pip install -r requirements.txt
 python chunks.py
 python embed_and_index.py
 python search.py
-python rag.py
+$env:GEMINI_API_KEY=""
 python api.py
 uvicorn api:app --reload
 ```
