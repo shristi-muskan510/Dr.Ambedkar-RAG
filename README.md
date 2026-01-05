@@ -43,3 +43,4 @@ python api.py
 uvicorn api:app --reload
 ```
 
+Open your browser and navigate to http://xxx.xxx.xxx.xxx:xxxx/docs￼ to see the interactive API documentation.
