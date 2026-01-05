@@ -31,6 +31,10 @@ pip install -r requirements.txt
 git clone https://github.com/yourusername/llm-ambedkar.git
 cd llm-ambedkar
 
+#Create your own Virtual Environment
+python -m venv env
+env\Scripts\activate
+
 # Install dependencies
 pip install -r requirements.txt
 
